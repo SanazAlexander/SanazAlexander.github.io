@@ -1,0 +1,25 @@
+body{
+background: url("assets/stripes.png"), url("assets/background.jpg") #52596b; 
+background-repeat: repeat-x, no-repeat; 
+
+}
+p{
+font-family: 'Helvetica',sans-serif; 
+color: #ffffff;
+font-size: 16px;	
+}
+
+section{
+margin-top: 250px;
+margin-left: 240px;
+
+}
+
+hr{
+width: 50px;
+margin: 15px 0px;
+border: none;
+background-color: #905d67;
+height: 4px;
+
+}
