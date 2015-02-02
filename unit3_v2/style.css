@@ -1,0 +1,29 @@
+
+body {
+     font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+     background:;
+     background-color: #;
+}
+
+h1 {
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-transform: uppercase;
+    font-size: ;
+    font-style:;
+    font-weight;
+}
+
+p {
+    font-size: #px;
+}
+
+
+li{
+	text-transform: uppercase;
+}
+
+p.slogan{
+	font-size: 24px;
+	text-transform: uppercase;
+	text-decoration: bold;
+}
