@@ -6,7 +6,6 @@ body {
 }
 
 h1 {
-    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
     text-transform: uppercase;
     font-size: ;
     font-style:;
@@ -25,5 +24,5 @@ li{
 p.slogan{
 	font-size: 24px;
 	text-transform: uppercase;
-	text-decoration: bold;
+	font-weight: bold;
 }
