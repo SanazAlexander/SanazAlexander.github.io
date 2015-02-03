@@ -5,7 +5,7 @@ body {
 }
 section { }
 section#splash {
-	background:url('venice_beach_1.jpg');
+	background:url('unit3_images/venice_beach_1.jpg');
 	background-repeat:no-repeat;
 	background-size:cover;
 	height:100vh;
@@ -17,7 +17,7 @@ section#about {
 h1 {
 	color:#fff;
 	font-size:3em;
-	padding:12.5em;
+	padding:4em;
 	text-align:center;
 	text-transform: uppercase;
 }
