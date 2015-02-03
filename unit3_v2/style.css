@@ -4,7 +4,14 @@ body {
      background:;
      background-color: #;
 }
-
+section { }
+section#splash {
+	background:url('venice_beach_1.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:100vh;
+}
+section#about { }
 h1 {
     text-transform: uppercase;
     font-size: ;
@@ -21,7 +28,7 @@ li{
 	text-transform: uppercase;
 }
 
-p.slogan{
+h2.slogan{
 	font-size: 24px;
 	text-transform: uppercase;
 	font-weight: bold;
