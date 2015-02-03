@@ -1,8 +1,7 @@
-
+* { margin:0;padding:0;box-sizing:border-box; }
 body {
-     font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
-     background:;
-     background-color: #;
+	font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size:16px;
 }
 section { }
 section#splash {
@@ -11,25 +10,26 @@ section#splash {
 	background-size:cover;
 	height:100vh;
 }
-section#about { }
+section#about { 
+	margin:0 auto 0 auto;
+	width:75em;
+}
 h1 {
-    text-transform: uppercase;
-    font-size: ;
-    font-style:;
-    font-weight;
-}
-
-p {
-    font-size: #px;
-}
-
-
-li{
+	color:#fff;
+	font-size:3em;
+	padding:12.5em;
+	text-align:center;
 	text-transform: uppercase;
 }
-
 h2.slogan{
-	font-size: 24px;
+	font-size: 1.5em;
+	margin:0 0 1em 0;
 	text-transform: uppercase;
-	font-weight: bold;
+}
+p {
+	margin:0 0 1em 0;
+}
+li{
+	margin:0 0 1em 0;
+	text-transform: uppercase;
 }
