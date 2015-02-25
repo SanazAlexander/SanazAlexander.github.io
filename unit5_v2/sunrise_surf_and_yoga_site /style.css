@@ -39,6 +39,18 @@ ul {
 	padding: 0;	
 }
 
+nav {
+	font-size: 1.8em;
+  	float: right;
+}
+
+nav a {
+	text-decoration: one;
+	color: #000000;
+	 margin: 1.8em;
+  	display: inline-block;
+}
+
 footer {
 	text-align: center;
 	padding: 1em 0;

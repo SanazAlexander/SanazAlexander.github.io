@@ -18,6 +18,13 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
+h1,h2 {
+	text-transform: uppercase;
+	border-bottom: 4px solid black;
+	display: inline-block;
+	font-weight: 800px; 
+}
+
 .clearfix:after {
 	visibility: hidden;
 	display:block;
