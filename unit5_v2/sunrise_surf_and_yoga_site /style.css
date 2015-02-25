@@ -51,8 +51,23 @@ nav a {
   	display: inline-block;
 }
 
+div {
+  font-size: 1.2em;
+  width: 50%;
+  display: inline-block;
+}
+
+#about {
+	float:left;
+}
+
+#services {
+	float:right;
+}
+
 footer {
 	text-align: center;
 	padding: 1em 0;
-
+	clear:both;
+ 
 }
