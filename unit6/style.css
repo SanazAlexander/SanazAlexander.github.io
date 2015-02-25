@@ -13,6 +13,11 @@ a {
 	width: 20px;
 }
 
+body {
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+}
+
 .clearfix:after {
 	visibility: hidden;
 	display:block;
