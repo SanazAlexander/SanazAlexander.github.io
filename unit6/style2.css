@@ -1,0 +1,36 @@
+* { margin:0;padding:0;box-sizing:border-box; }
+body {
+	font-family: 'Nunito', sans-serif;
+	font-size:16px;
+}
+section { }
+section#splash {
+	background:url('unit3_images/venice_beach_1.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:100vh;
+}
+section#about { 
+	margin:0 auto 0 auto;
+	width:75em;
+}
+h1 {
+	font-family: 'Nunito', sans-serif;
+	color:#fff;
+	font-size:3em;
+	padding:4em;
+	text-align:center;
+	text-transform: uppercase;
+}
+h2.slogan{
+	font-size: 1.5em;
+	margin:0 0 1em 0;
+	text-transform: uppercase;
+}
+p {
+	margin:0 0 1em 0;
+}
+li{
+	margin:0 0 1em 0;
+	text-transform: uppercase;
+}
