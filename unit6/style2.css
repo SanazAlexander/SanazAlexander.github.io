@@ -2,8 +2,13 @@
 body {
 	font-family: 'Nunito', sans-serif;
 	font-size:16px;
+
 }
-section { }
+
+section{
+	margin-bottom: 2em;
+}
+
 section#splash {
 	background:url('unit3_images/venice_beach_1.jpg');
 	background-repeat:no-repeat;
@@ -16,7 +21,7 @@ section#about {
 }
 h1 {
 	font-family: 'Nunito', sans-serif;
-	color:#fff;
+	color:#222;
 	font-size:3em;
 	padding:4em;
 	text-align:center;
@@ -35,3 +40,53 @@ li{
 	margin:0 0 1em 0;
 	text-transform: uppercase;
 }
+
+
+section#oceanfront div {
+	width: 50%;
+	padding: 1em;
+	float: left;
+
+} 
+
+section#oceanfront div img {
+	width: 20%;
+	float: left;
+}
+
+section#oceanfront div img:first-child {
+	width:100%;
+}
+
+
+section#beachHouse div {
+	width: 50%;
+
+} 
+
+section#beachHouse div img {
+	width: 16.66%;
+	float: left;
+}
+
+section#beachHouse div img:first-child {
+	width:100%;
+}
+
+.clearfix:after { 
+	content: "."; 
+	visibility: hidden; 
+	display: block; 
+	height: 0; 
+	clear: both;
+}
+
+
+
+
+
+
+
+
+
+
